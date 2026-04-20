@@ -1,5 +1,5 @@
 name=input("Enter Name ")
-
+# if, if else, if elif else conditions
 age=int(input("Enter your age: "))
 if age>=18:
     print("Hello",name, "You are Adult")
