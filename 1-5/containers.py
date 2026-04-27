@@ -1,7 +1,7 @@
 # List [] = mutable (append/remove), most flexible
 # Tuple () = immutable, faster
 # set {} = mutable (add/remove), unordered, No duplicates, best for membership testing
-
+.
 # fruits = ["apple", "orange", "banana", "coconut"]
 fruits = {"apple", "orange", "banana", "coconut", "coconut", "coconut"}
 
