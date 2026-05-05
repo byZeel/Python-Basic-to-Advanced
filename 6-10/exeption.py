@@ -1,6 +1,6 @@
 # def a(x):
 #     return(10/x)
-
+#
 # print("Enter A num:")
 # y=a(int(input()))
 # print(y)
