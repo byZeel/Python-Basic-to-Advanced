@@ -4,7 +4,7 @@
 #*               * multiplication
 #*               / division
 #*              // integer division
-#*               % remainder
+#               % remainder
 
 def a(x,y):
     return(x+y)
