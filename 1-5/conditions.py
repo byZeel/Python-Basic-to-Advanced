@@ -7,3 +7,4 @@ elif age<18 and age> 10:
     print("Hello",name, "You are Teen")
 else:
     print("Hello",name, "You are kid")
+#
